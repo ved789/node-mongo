@@ -1,6 +1,6 @@
 # Docker Node MongoDB Example by Ved
 
-> Simple example of a dockerized Node/Mongo app
+> Simple example of a dockerized Node/Mongo app Created by Ved...
 
 ![Image](https://i.ibb.co/4Fgt31L/demo.gif)
 
